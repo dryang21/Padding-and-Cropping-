@@ -1,4 +1,4 @@
-# Padding-and-Cropping-
+# Padding-and-Cropping
 
 For ten phases CXR.   
 1.First padding all to sqaure.   
